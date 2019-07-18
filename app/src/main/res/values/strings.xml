@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">t1</string>
+    <string name="app_femenino">femenino</string>
+    <string name="app_men">Hombre</string>
+    <string name="app_cal">Calcular</string>
+    <string name="app_delete">Borrar</string>
+    <string name="app_nomb">Nombre</string>
+    <string name="app_nombe">Ingresa tu nombre</string>
+    <string name="app_Ap">Apellido</string>
+    <string name="app_api">Ingresa tu apellido</string>
+    <string name="app_sch">Escuela</string>
+    <string name="app_esc">Ingresa tu escuela</string>
+    <string name="app_edad">Edad</string>
+    <string name="app_ed">Ingresa tu edad </string>
+    <string name="app_est">Estatura</string>
+    <string name="app_esta">Ingresa tu estatura en cm</string>
+</resources>
